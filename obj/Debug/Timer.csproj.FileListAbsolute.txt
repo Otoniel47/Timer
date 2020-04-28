@@ -1,0 +1,8 @@
+E:\Projetos\C#\Timer\bin\Debug\Timer.exe
+E:\Projetos\C#\Timer\bin\Debug\Timer.pdb
+E:\Projetos\C#\Timer\obj\Debug\Timer.Form1.resources
+E:\Projetos\C#\Timer\obj\Debug\Timer.Properties.Resources.resources
+E:\Projetos\C#\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+E:\Projetos\C#\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Timer\obj\Debug\Timer.exe
+E:\Projetos\C#\Timer\obj\Debug\Timer.pdb
